@@ -1,0 +1,28 @@
+@font-face {
+	font-family: 'icon';
+	src:url('fonts/icon.eot?5wbsz');
+	src:url('fonts/icon.eot?#iefix5wbsz') format('embedded-opentype'),
+		url('fonts/icon.woff?5wbsz') format('woff'),
+		url('fonts/icon.ttf?5wbsz') format('truetype'),
+		url('fonts/icon.svg?5wbsz#icon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-close:before {
+	content: "\e603";
+}

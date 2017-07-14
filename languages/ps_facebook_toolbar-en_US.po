@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ps facebook toolbar\n"
+"POT-Creation-Date: 2014-03-27 09:16+0100\n"
+"PO-Revision-Date: 2014-03-27 09:16+0100\n"
+"Last-Translator: Piotr Szarmach <kontakt@piotrszarmach.com>\n"
+"Language-Team: Piotr Szarmach <kontakt@piotrszarmach.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../php/ps_facebook_toolbar_views.php:111
+msgid "Zapisz"
+msgstr "Save"
+
+#: ../ps_facebook_toolbar.php:80
+msgid "Wystąpił błąd aktywacji wtyczki. Spróbuj ponownie za moment."
+msgstr "An error occurred. Please try again for a while."
+
+#: ../ps_facebook_toolbar.php:237
+msgid "Wymaż ciastka"
+msgstr "Erase Facebook Like Toolbar cookies"
+
+#: ../ps_facebook_toolbar.php:238
+msgid "Kolor tła:"
+msgstr "Background color:"
+
+#: ../ps_facebook_toolbar.php:239
+msgid "Kolor czcionki:"
+msgstr "Font color:"
+
+#: ../ps_facebook_toolbar.php:240
+msgid "Kolor odnośników:"
+msgstr "Link color:"
+
+#: ../ps_facebook_toolbar.php:241
+msgid "Kolor ikony zamknięcia:"
+msgstr "Close icon color:"
+
+#: ../ps_facebook_toolbar.php:242
+msgid "Kolor tła ikony zamknięcia:"
+msgstr "Close icon background color:"
+
+#: ../ps_facebook_toolbar.php:243
+msgid "Kolor tła facebook:"
+msgstr "Facebook background color:"
+
+#: ../ps_facebook_toolbar.php:244
+msgid "Położenie okna:"
+msgstr "Window position:"
+
+#: ../ps_facebook_toolbar.php:244
+msgid "góra"
+msgstr "top"
+
+#: ../ps_facebook_toolbar.php:244
+msgid "dół"
+msgstr "bottom"
+
+#: ../ps_facebook_toolbar.php:245
+msgid "Automatycznie ukrycie komunikatu:"
+msgstr "Auto-hide"
+
+#: ../ps_facebook_toolbar.php:245
+msgid "wyłącz"
+msgstr "disable"
+
+#: ../ps_facebook_toolbar.php:246
+msgid "Reset ciasteczek:"
+msgstr "Cookies reset after X days:"
+
+#: ../ps_facebook_toolbar.php:247
+msgid "Opóźnienie w wyświetlaniu okna:"
+msgstr "Show window after delay:"
+
+#: ../ps_facebook_toolbar.php:248
+msgid "Tekst wiadomości:"
+msgstr "Message:"
+
+#: ../ps_facebook_toolbar.php:249
+msgid "<u>iframe</u> z treścią facebook"
+msgstr "<u>iframe</u> with facebook code"
+
+#: ../ps_facebook_toolbar.php:249
+msgid "kliknij"
+msgstr "click"
+
+#: ../ps_facebook_toolbar.php:249
+msgid "tutaj"
+msgstr "here"
+
+#: ../ps_facebook_toolbar.php:249
+msgid "lub"
+msgstr "or"
+
+#: ../ps_facebook_toolbar.php:249
+msgid "aby wygenerować"
+msgstr "to generate"
+
+#: ../ps_facebook_toolbar.php:264
+msgid "Wystąpił błąd aplikacji. Nieautoryzowane połączenie."
+msgstr "Application error. Unauthorized connection."
+
+#: ../ps_facebook_toolbar.php:301
+msgid "Ustawienia zostały zapisane. "
+msgstr "Settings saved."
+
+#: ../ps_facebook_toolbar.php:305
+msgid ""
+"<p>Wystąpił błąd: <strong>wypełnij poprawnie wszystkie pola.</strong></"
+"p><p>Pamiętaj że wtyczka przyjmuje tylko kod facebook w postaci "
+"<strong>iframe</strong></p>"
+msgstr ""
+"<p>An error occurred: <strong>you have to correctly fill all fields.</"
+"strong></p><p>Remember that facebook code must be in <strong>iframe</"
+"strong></p>"
+
+#, fuzzy
+#~ msgid ""
+#~ "kliknij <a href=\"https://developers.facebook.com/docs/plugins/like-"
+#~ "button/\" target=\"_blank\">tutaj</a> lub <a href=\"https://developers."
+#~ "facebook.com/docs/plugins/like-box-for-pages\" target=\"_blank\">tutaj</"
+#~ "a> aby wygenerować)"
+#~ msgstr ""
+#~ "<u>iframe</u> with facebook code (click <a href=\"https://developers."
+#~ "facebook.com/docs/plugins/like-button/\" target=\"_blank\">here</a> or <a "
+#~ "href=\"https://developers.facebook.com/docs/plugins/like-box-for-pages\" "
+#~ "target=\"_blank\">here</a> to generate)"
